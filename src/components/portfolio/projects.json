@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Code Quiz",
+    "image": "./image/code_quiz.png",
+    "link": "https://github.com/siyuanhuo/codequiz.git",
+    "discription": "Take a quiz!"
+  },
+  {
+    "id": 2,
+    "name": "Password Generator",
+    "image": "./image/psw_generator.png",
+    "link": "https://github.com/siyuanhuo/pswgenerator.git",
+    "discription": "Allow user to generate a secure password"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "image": "./image/weather_dashboard.png",
+    "link": "https://github.com/siyuanhuo/weatherdashbord.git",
+    "discription": "Need a weather forcast? No Problem?"
+  },
+  {
+    "id": 4,
+    "name": "Event Notifier",
+    "image": "./image/notifier.png",
+    "link": "https://github.com/cycy6/Event-notification.git",
+    "discription": "Time to take the pill!"
+  },
+  {
+    "id": 5,
+    "name": "Workday Scheduler",
+    "image": "./image/workday_scheduler.png",
+    "link": "https://github.com/siyuanhuo/workdayscheduler.git",
+    "discription": "Have a plan today?"
+  }
+]
