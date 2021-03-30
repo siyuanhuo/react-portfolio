@@ -5,7 +5,7 @@ function Navbar() {
   return(
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">SiyuanHuo</a>
+        <a className="navbar-brand" href="/react-portfolio">SiyuanHuo</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -13,13 +13,13 @@ function Navbar() {
           <ul className="navbar-nav ms-auto">
             
             <li className="nav-item">
-              <a className="nav-link" href="/contact">Contact</a>
+              <a className="nav-link" href="/react-portfolio/contact">Contact</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/portfolio">Portfolio</a>
+              <a className="nav-link" href="/react-portfolio/portfolio">Portfolio</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="/">About</a>
+              <a className="nav-link active" aria-current="page" href="/react-portfolio">About</a>
             </li>
           </ul>
         </div>

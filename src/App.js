@@ -15,9 +15,9 @@ function App() {
           <div className="container-lg">
             <Switch>
               <Route exact path="/react-portfolio"><AboutMe /></Route>
-              <Route exact path="/"><AboutMe /></Route>
-              <Route path="/Portfolio"><Portfolio /></Route>
-              <Route path="/Contact"><Contact /></Route>
+              {/* <Route exact path="/"><AboutMe /></Route> */}
+              <Route path="/react-portfolio/Portfolio"><Portfolio /></Route>
+              <Route path="/react-portfolio/Contact"><Contact /></Route>
             </Switch>
           </div>
           <Footer />
