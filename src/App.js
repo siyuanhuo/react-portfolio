@@ -16,8 +16,8 @@ function App() {
             <Switch>
               <Route exact path="/react-portfolio"><AboutMe /></Route>
               {/* <Route exact path="/"><AboutMe /></Route> */}
-              <Route path="/react-portfolio/Portfolio"><Portfolio /></Route>
-              <Route path="/react-portfolio/Contact"><Contact /></Route>
+              <Route path="/react-portfolio/portfolio"><Portfolio /></Route>
+              <Route path="/react-portfolio/contact"><Contact /></Route>
             </Switch>
           </div>
           <Footer />
